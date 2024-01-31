@@ -1,0 +1,5 @@
+com/project/compression/HuffmanTree.class
+com/project/compression/HuffmanLeafNode.class
+com/project/compression/HuffmanInternalNode.class
+com/project/compression/HuffmanNode.class
+com/project/compression/HuffmanCompression.class
